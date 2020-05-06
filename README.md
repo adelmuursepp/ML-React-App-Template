@@ -1,6 +1,6 @@
 # ML-React-App
 
-Alltoodud lingi pealt proovisin teha React veebileht UT masinõppe mudeli näitamiseks. Demo iirise liigi määramise mudeli kohta toimis, kuid kahjuks praegune versioon example kaustas ei tööta. 
+Alltoodud lingi pealt proovisin teha React veebileht UT masinõppe mudeli näitamiseks. Demo iirise liigi määramise mudeli kohta toimis, kuid kahjuks praegune versioon example kaustas ei tööta. Kasutatud on alltoodud linki.
 
 NB! Kindlasti vaadata example kausta, mitte esimesi ui ja service kaustu. 
 
